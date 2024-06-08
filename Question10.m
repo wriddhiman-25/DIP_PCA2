@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 PSF = fspecial('motion', 21, 11);
 motion_blur_img = imfilter(img, PSF, 'conv', 'circular');
 
