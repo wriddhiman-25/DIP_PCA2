@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 
 contrast_img = imadjust(img, stretchlim(img), []);
 
