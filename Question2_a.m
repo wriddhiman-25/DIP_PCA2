@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 brighter_img = img + 50;
 darker_img = img - 50;
 
