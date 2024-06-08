@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 mask3x3 = ones(3, 3) / 9;
 mask5x5 = ones(5, 5) / 25;
 
