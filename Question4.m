@@ -1,4 +1,4 @@
-img = imread('cameraman.tif');
+img = imread('kids.tif');
 threshold = 100; 
 binary_img = img > threshold;
 
