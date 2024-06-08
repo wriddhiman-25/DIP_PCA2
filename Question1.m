@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 figure, subplot(2,3,1), imshow(img), title('Original Image')
 
 
