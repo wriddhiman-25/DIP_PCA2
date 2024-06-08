@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 img_gray = img; % Image is already grayscale
 D0 = 30; % Cut-off frequency
 
