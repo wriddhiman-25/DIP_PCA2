@@ -1,4 +1,4 @@
-img = imread('autumn.tif');
+img = imread('kids.tif');
 
 negative_img = imcomplement(img);
 
